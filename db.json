@@ -1,0 +1,157 @@
+{
+  "jobs": [
+    {
+      "id": "1",
+      "position": "Frontend Developer",
+      "company": "META",
+      "location": "İzmir/Bayraklı",
+      "status": "Devam Ediyor",
+      "type": "Tam Zamanlı",
+      "date": "10/1/2023"
+    },
+    {
+      "id": "2",
+      "position": "Backend Developer",
+      "company": "Kodlama.io",
+      "location": "İstanbul/Üsküdar",
+      "status": "Mülakat",
+      "type": "Tam Zamanlı",
+      "date": "3/29/2023"
+    },
+    {
+      "id": "3",
+      "position": "UI/UX Designer",
+      "company": "Figma",
+      "location": "New York",
+      "status": "Devam Ediyor",
+      "type": "Uzaktan",
+      "date": "10/3/2023"
+    },
+    {
+      "id": "4",
+      "position": "Software Engineer",
+      "company": "Google",
+      "location": "New York",
+      "status": "Reddedildi",
+      "type": "Tam Zamanlı",
+      "date": "10/2/2020"
+    },
+    {
+      "id": "5",
+      "position": "Product Manager",
+      "company": "Amazon",
+      "location": "Seattle",
+      "status": "Mülakat",
+      "type": "Yarı Zamanlı",
+      "date": "3/10/2024"
+    },
+    {
+      "id": "6",
+      "position": "Data Scientist",
+      "company": "Microsoft",
+      "location": "Redmond",
+      "status": "Devam Ediyor",
+      "type": "Tam Zamanlı",
+      "date": "3/1/2024"
+    },
+    {
+      "id": "7",
+      "position": "Frontend Developer",
+      "company": "Udemig",
+      "location": "İzmir/Bayraklı",
+      "status": "Devam Ediyor",
+      "type": "Tam Zamanlı",
+      "date": "1/17/2021"
+    },
+    {
+      "id": "8",
+      "position": "Marketing Manager",
+      "company": "Coca Cola",
+      "location": "İstanbul/Levent",
+      "status": "Mülakat",
+      "type": "Tam Zamanlı",
+      "date": "9/12/2020"
+    },
+    {
+      "id": "9",
+      "position": "Software Tester",
+      "company": "IBM",
+      "location": "Ankara/Çankaya",
+      "status": "Devam Ediyor",
+      "type": "Yarı Zamanlı",
+      "date": "3/28/2023"
+    },
+    {
+      "id": "10",
+      "position": "Data Analyst",
+      "company": "Facebook",
+      "location": "Menlo Park",
+      "status": "Reddedildi",
+      "type": "Uzaktan",
+      "date": "3/28/2023"
+    },
+    {
+      "id": "2fc77d82-0d3f-4e70-941d-ac1540c94f0e",
+      "position": "",
+      "company": "meta",
+      "location": "",
+      "status": "Mülakat",
+      "type": "Tam Zamanlı",
+      "date": "28.04.2024"
+    },
+    {
+      "id": "5f72bb57-2d1c-491b-83fa-a15a1f9e4c09",
+      "position": "",
+      "company": "meta",
+      "location": "",
+      "status": "Mülakat",
+      "type": "Uzaktan",
+      "date": "28.04.2024"
+    },
+    {
+      "id": "9b17cfa7-5f88-4f39-97a3-608b03e598ce",
+      "position": "back end",
+      "company": "meta",
+      "location": "london",
+      "status": "Mülakat",
+      "type": "Tam Zamanlı",
+      "date": "28.04.2024"
+    },
+    {
+      "id": "c8f170ac-b6e6-407f-ae23-72ad87055b91",
+      "position": "mobil developer",
+      "company": "google",
+      "location": "",
+      "status": "Devam Ediyor",
+      "type": "Yarı Zamanlı",
+      "date": "28.04.2024"
+    },
+    {
+      "id": "db199714-014c-413e-82f2-c1dca62d0811",
+      "position": "mobil developer",
+      "company": "google",
+      "location": "",
+      "status": "Mülakat",
+      "type": "Tam Zamanlı",
+      "date": "28.04.2024"
+    },
+    {
+      "id": "02a1358b-2b53-4373-9201-d8e7dbd78523",
+      "position": "mobil developer",
+      "company": "google",
+      "location": "",
+      "status": "Mülakat",
+      "type": "Tam Zamanlı",
+      "date": "28.04.2024"
+    },
+    {
+      "id": "e286268b-2756-4c90-9837-89fcad06a5b5",
+      "position": "react native",
+      "company": "facebook",
+      "location": "",
+      "status": "Mülakat",
+      "type": "Tam Zamanlı",
+      "date": "28.04.2024"
+    }
+  ]
+}
